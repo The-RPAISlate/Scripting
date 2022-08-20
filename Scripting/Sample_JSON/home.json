@@ -1,0 +1,24 @@
+{
+    "class": 3,
+    "teacher": "Teacher's name",
+    "school_name": "Harvard",
+    "logo_path": "/images/school_logo.png",
+    "subjects": [
+        {
+            "name": "English",
+            "url": "english"
+        },
+        {
+            "name": "Hindi",
+            "url": "hindi"
+        },
+        {
+            "name": "Social Science",
+            "url": "socialscience"
+        },
+        {
+            "name": "Science",
+            "url": "science"
+        }
+    ]
+}
